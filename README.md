@@ -22,10 +22,11 @@ Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente
             src="https://custom-icon-badges.demolab.com/github/followers/SabrinaWsf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
- <a href="linkedin.com/in/sabrina-fonseca-5a83a2207/" target="_blank">
-   <img 
-     src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>   
+ <a href="https://www.linkedin.com/in/sabrina-fonseca-5a83a2207/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn">
+  </a>  
 </p>
 
 ---
@@ -111,12 +112,12 @@ Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sabrinawsf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sabrinawsf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
 
   <img 
     align="left" 
