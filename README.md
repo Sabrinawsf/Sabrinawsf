@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Sabrina Fonseca
 **`Desenvolvedora FullStack`**
 
-Me chamoSabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente, conclui a graduação em Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonada por tecnologia e compartilho meu conhecimento através de projetos e no meu instagram "[Sabrina OnTech](https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==)", onde ensino e passo informações que me acrescentam.
+Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente, conclui a graduação em Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonada por tecnologia e compartilho meu conhecimento através de projetos e no meu instagram "[Sabrina OnTech](https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==)", onde ensino e passo informações que me acrescentam.
 
 <p align="left">
      <a href="https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==" target="_blank">
@@ -12,14 +12,14 @@ Me chamoSabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente,
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Sabrinawsf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Sabrinawsf?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/SabrinaWsf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
  <a href="linkedin.com/in/sabrina-fonseca-5a83a2207/" target="_blank">
@@ -115,17 +115,17 @@ Me chamoSabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente,
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sabrnawsf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Sabrinawsf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrnawsf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinawsf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
 
 <!--
 **Sabrinawsf/Sabrinawsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
