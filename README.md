@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Sabrina Fonseca
 **`Desenvolvedora FullStack`**
 
-Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente, conclui a graduação em Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonada por tecnologia e compartilho meu conhecimento através de projetos e no meu instagram "[Sabrina OnTech](https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==)", onde ensino e passo informações que me acrescentam.
+Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. . Atualmente, conclui a graduação em Análise e Desenvolvimento de Sistemas no CEUB. Minha paixão pela TI nasceu dos desafios reais que encontro todo dia. Nada é estático sempre há algo novo à aprender, bugs para resolver e soluções para criar.💻✨ Compartilho meu conhecimento através de projetos e no meu instagram "[Sabrina OnTech](https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==)", onde ensino e passo informações que me acrescentam.
 
 <p align="left">
      <a href="https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==" target="_blank">
