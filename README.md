@@ -4,7 +4,7 @@
 Me chamo Sabrina Fonseca, tenho 24 anos e sou natural de Brasília. Atualmente, conclui a graduação em Análise e Desenvolvimento de Sistemas no CEUB. Minha paixão pela TI nasceu dos desafios reais que encontro todo dia. Nada é estático sempre há algo novo à aprender, bugs para resolver e soluções para criar.💻✨ Compartilho meu conhecimento através de projetos e no meu instagram "[sabs.code](https://www.instagram.com/sabs.code?igsh=MTh4Mjl0NnZieTJvcw==)", onde ensino e passo informações que me acrescentam.
 
 <p align="left">
-     <a href="https://www.instagram.com/sabs.ontech?igsh=MTh4Mjl0NnZieTJvcw==" target="_blank">
+     <a href="https://www.instagram.com/sabs.code?igsh=MTh4Mjl0NnZieTJvcw==">
        <img
          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
      </a>
